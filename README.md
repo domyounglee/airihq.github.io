@@ -1,4 +1,4 @@
-# Tale
+# 인공지능연구원 기술블로그
 
 [![Gem Version](https://badge.fury.io/rb/tale.svg)](https://badge.fury.io/rb/tale)
 
